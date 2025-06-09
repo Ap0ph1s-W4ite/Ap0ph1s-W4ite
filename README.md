@@ -12,7 +12,7 @@ I'm always open to collaborating on open-source projects. If you have an interes
 - Docker
 
 ## 📚 Check Out My Contributions
-- **[My Contributions](https://github.com/Ap0ph1s-W4ite?tab=overview&from=2023-01-01&to=2023-12-31)**: Explore my latest contributions to open-source projects.
+- **[My Contributions](https://github.com/Ap0ph1s-W4ite?tab=overview&from=2023-01-01&to=2025-12-31)**: Explore my latest contributions to open-source projects.
 
 ## 🤝 Support My Work
 If you appreciate my open-source contributions, feel free to [buy me a coffee](https://buymeacoffee.com/ap0ph1sw4ite). Your support helps me continue creating and sharing!
